@@ -74,7 +74,7 @@ class _PendakiScreenState extends State<PendakiScreen> {
                           ),
                           SizedBox(width: 20.0),
                           Expanded(
-                            // Wrap the text in Expanded
+                            
                             child: Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [

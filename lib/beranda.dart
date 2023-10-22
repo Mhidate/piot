@@ -58,7 +58,7 @@ class HomeScreen extends StatelessWidget {
               child: SingleChildScrollView(
                 child: Column(
                   children: [
-                    // Container atau widget lain yang ingin Anda sisipkan di sini
+                    
                     Padding(
                       padding: EdgeInsets.only(top: 9, bottom: 9),
                       child: Container(
@@ -164,8 +164,7 @@ class HomeScreen extends StatelessWidget {
                           IconButton(
                             icon: Icon(Icons.facebook_rounded),
                             onPressed: () {
-                              // Aksi ketika tombol "Share" pertama ditekan
-                              // Tambahkan kode untuk berbagi ke media sosial di sini
+                              
                             },
                           ),
                           IconButton(
@@ -174,8 +173,7 @@ class HomeScreen extends StatelessWidget {
                               color: Colors.red,
                             ),
                             onPressed: () {
-                              // Aksi ketika tombol "Favorite" ditekan
-                              // Tambahkan kode untuk menandai sebagai favorit di sini
+                              
                             },
                           ),
                           IconButton(
@@ -184,8 +182,7 @@ class HomeScreen extends StatelessWidget {
                               color: Colors.blueAccent[400],
                             ),
                             onPressed: () {
-                              // Aksi ketika tombol "Comment" ditekan
-                              // Tambahkan kode untuk menampilkan komentar di sini
+                             
                             },
                           ),
                         ],
@@ -200,9 +197,9 @@ class HomeScreen extends StatelessWidget {
                           top: BorderSide(color: Color.fromRGBO(18, 39, 95, 0.766), width: 4.0),
                         ),
                       ),
-                      // Isi konten Container kedua di sini
+                  
                     ),
-                    // Tambahkan Container atau widget lain di sini sesuai kebutuhan Anda
+                   
                   ],
                 ),
               ),

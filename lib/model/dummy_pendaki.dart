@@ -22,7 +22,6 @@ class PendakiRepository {
   }
 }
 
-// Contoh data dummy pendaki
 List<Pendaki> dummyDataPendaki = [
   Pendaki(nama: 'Luffy', jenisKelamin: 'Laki-laki', usia: 25, alamat: 'East Blue',grup: 2, imageUrl: 'assets/gambar/akun.png'),
   Pendaki(nama: 'Naruto', jenisKelamin: 'Laki-Laki', usia: 28, alamat: 'Konoha',grup: 4,  imageUrl: 'assets/gambar/akun.png'),
@@ -32,5 +31,5 @@ List<Pendaki> dummyDataPendaki = [
   Pendaki(nama: 'Hinata', jenisKelamin: 'Perempuan', usia: 27, alamat: 'Konoha',grup: 4,  imageUrl: 'assets/gambar/akun.png'),
   Pendaki(nama: 'Patrik Star', jenisKelamin: 'Laki-laki', usia: 20, alamat: 'Bikini Bottom',grup: 5,  imageUrl: 'assets/gambar/akun2.png'),
   Pendaki(nama: 'Pain', jenisKelamin: 'Laki-Laki', usia: 30, alamat: 'Amegakure',grup: 5,  imageUrl: 'assets/gambar/akun.png')
-  // Tambahkan data pendaki lainnya sesuai kebutuhan
+  
 ];

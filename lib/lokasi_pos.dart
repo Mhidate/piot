@@ -28,9 +28,9 @@ class MapScreen extends StatelessWidget {
                     width: 80,
                     height: 80,
                     child: Icon(
-                      Icons.location_on, // Ikon yang digunakan
-                      size: 40, // Ukuran ikon
-                      color: Colors.red, // Warna ikon
+                      Icons.location_on, 
+                      size: 40, 
+                      color: Colors.red, 
                     ),
                     
                   ),
