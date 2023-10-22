@@ -24,12 +24,12 @@ class PendakiRepository {
 
 // Contoh data dummy pendaki
 List<Pendaki> dummyDataPendaki = [
-  Pendaki(nama: 'Pendaki 1', jenisKelamin: 'Laki-laki', usia: 30, alamat: 'pancor',grup: 2, imageUrl: 'assets/gambar/home.png'),
-  Pendaki(nama: 'Pendaki 2', jenisKelamin: 'Perempuan', usia: 25, alamat: 'pancor',grup: 4,  imageUrl: 'assets/gambar/home.png'),
-  Pendaki(nama: 'Pendaki 3', jenisKelamin: 'Laki-laki', usia: 22, alamat: 'pancor',grup: 5,  imageUrl: 'assets/gambar/home.png'),
-  Pendaki(nama: 'Pendaki 4', jenisKelamin: 'Perempuan', usia: 27, alamat: 'pancor',grup: 3,  imageUrl: 'assets/gambar/home.png'),
-  Pendaki(nama: 'Pendaki 4', jenisKelamin: 'Perempuan', usia: 27, alamat: 'pancor',grup: 1,  imageUrl: 'assets/gambar/home.png'),
-  Pendaki(nama: 'Pendaki 4', jenisKelamin: 'Perempuan', usia: 27, alamat: 'pancor',grup: 2,  imageUrl: 'assets/gambar/home.png'),
-  Pendaki(nama: 'Pendaki 4', jenisKelamin: 'Perempuan', usia: 27, alamat: 'pancor',grup: 2,  imageUrl: 'assets/gambar/home.png'),
+  Pendaki(nama: 'Luffy', jenisKelamin: 'Laki-laki', usia: 25, alamat: 'East Blue',grup: 2, imageUrl: 'assets/gambar/akun.png'),
+  Pendaki(nama: 'Naruto', jenisKelamin: 'Laki-Laki', usia: 28, alamat: 'Konoha',grup: 4,  imageUrl: 'assets/gambar/akun.png'),
+  Pendaki(nama: 'Dazai', jenisKelamin: 'Laki-laki', usia: 29, alamat: 'Port',grup: 1,  imageUrl: 'assets/gambar/akun.png'),
+  Pendaki(nama: 'Sakura', jenisKelamin: 'Perempuan', usia: 27, alamat: 'Konoha',grup: 4,  imageUrl: 'assets/gambar/akun.png'),
+  Pendaki(nama: 'Gojo', jenisKelamin: 'Laki-Laki', usia: 29, alamat: 'Tokyo',grup: 3,  imageUrl: 'assets/gambar/akun.png'),
+  Pendaki(nama: 'Hinata', jenisKelamin: 'Perempuan', usia: 27, alamat: 'Konoha',grup: 4,  imageUrl: 'assets/gambar/akun.png'),
+  Pendaki(nama: 'Patrik Star', jenisKelamin: 'Laki-laki', usia: 20, alamat: 'Bikini Bottom',grup: 5,  imageUrl: 'assets/gambar/akun.png'),
   // Tambahkan data pendaki lainnya sesuai kebutuhan
 ];
