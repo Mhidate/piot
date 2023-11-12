@@ -1,6 +1,6 @@
 #Peak path IoT
 
-![Screenshot (94)](https://github.com/Mhidate/piot/assets/72199625/19bc3eb8-9c20-4fbe-b48f-cd15326f81aa)
+![Screenshot (105)](https://github.com/Mhidate/piot/assets/72199625/fc9621ea-8b6f-4694-855a-a3c09e6b4a94)
 
 
 ![Screenshot (96)](https://github.com/Mhidate/piot/assets/72199625/bc7d0b1d-4ac3-40df-b9df-54d7558bed39)
