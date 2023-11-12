@@ -58,7 +58,6 @@ class HomeScreen extends StatelessWidget {
               child: SingleChildScrollView(
                 child: Column(
                   children: [
-                    
                     Padding(
                       padding: EdgeInsets.only(top: 9, bottom: 9),
                       child: Container(
@@ -84,7 +83,6 @@ class HomeScreen extends StatelessWidget {
                         ),
                       ),
                     ),
-
                     Padding(
                       padding: EdgeInsets.only(top: 9, bottom: 9),
                       child: Container(
@@ -106,7 +104,6 @@ class HomeScreen extends StatelessWidget {
                         ),
                       ),
                     ),
-
                     Padding(
                       padding: EdgeInsets.only(top: 9, bottom: 9),
                       child: Container(
@@ -128,7 +125,6 @@ class HomeScreen extends StatelessWidget {
                         ),
                       ),
                     ),
-
                     Padding(
                       padding: EdgeInsets.only(top: 9, bottom: 9),
                       child: Container(
@@ -153,7 +149,6 @@ class HomeScreen extends StatelessWidget {
                         ),
                       ),
                     ),
-
                     Container(
                       height: 50,
                       width: 200,
@@ -163,32 +158,25 @@ class HomeScreen extends StatelessWidget {
                         children: [
                           IconButton(
                             icon: Icon(Icons.facebook_rounded),
-                            onPressed: () {
-                              
-                            },
+                            onPressed: () {},
                           ),
                           IconButton(
                             icon: Icon(
                               Icons.email_rounded,
                               color: Colors.red,
                             ),
-                            onPressed: () {
-                              
-                            },
+                            onPressed: () {},
                           ),
                           IconButton(
                             icon: Icon(
                               Icons.duo_sharp,
                               color: Colors.blueAccent[400],
                             ),
-                            onPressed: () {
-                             
-                            },
+                            onPressed: () {},
                           ),
                         ],
                       ),
                     ),
-
                     Container(
                       height: 10,
                       width: 300,
@@ -197,9 +185,7 @@ class HomeScreen extends StatelessWidget {
                           top: BorderSide(color: Color.fromRGBO(18, 39, 95, 0.766), width: 4.0),
                         ),
                       ),
-                  
                     ),
-                   
                   ],
                 ),
               ),
